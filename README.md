@@ -1,8 +1,9 @@
 # Modeling the Scintillation Mechanism of XeDLAr in the Presence of Impurities for LEGEND
 
 ## Description
-This repository contains my model of the scintillation mechanism of xenon-doped liquid in the presence of impurities. This model shows for the first time a dip at ~1μmol/mol.
-It underestimates the dip seen in LLAMA data, and the increase in photoelectron yield is too strong. It was found that the xenon quenching rate does not scale linearly with the xenon concentration but saturates.
+This repository contains my model of the scintillation mechanism of xenon-doped liquid in the presence of impurities. This model shows for the first time a dip at ~1μmol/mol in the photoelectron yield.
+It underestimates the dip seen in LLAMA data, and the increase in photoelectron yield is too strong.
+It was found that the xenon quenching rate does not scale linearly with the xenon concentration but saturates.
 
 ## About this project
 This project was developed by Maria Leibelt during her time as a Bachelor's student at the Astroparticle Group at the Technical University of Munich 2023-2024.
